@@ -1,0 +1,7 @@
+# When Systems Proceed Under Uncertainty
+
+This repository contains a short, non-prescriptive reference documenting a recurring system-level pattern observed across shared and transitional device contexts.
+
+The pattern concerns situations in which systems proceed—rendering interfaces, previews, notifications, or resumed sessions—before user intent or authority has been resolved.
+
+This material is provided for informational purposes only. It does not propose solutions, recommendations, standards, or evaluations of correctness or responsibility.
