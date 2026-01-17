@@ -1,0 +1,5 @@
+Status: Informational reference
+
+This repository is not a standard, policy proposal, or design guideline.
+
+It exists solely to document an observed pattern without prescribing action or interpretation.
